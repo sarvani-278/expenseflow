@@ -48,7 +48,7 @@ docker info
 
 ```bash
 git clone https://github.com/sarvani-278/expenseflow.git
-cd expense-tracker
+cd expenseflow
 ```
 
 ### 2. Build and Start the Application
@@ -186,6 +186,4 @@ expense-tracker/
 - GitHub: [@sarvani-278](https://github.com/sarvani-278)
 - LinkedIn: [sarvani-mikkilineni-b80969340](https://www.linkedin.com/in/sarvani-mikkilineni-b80969340/)
 
-## License
 
-MIT
