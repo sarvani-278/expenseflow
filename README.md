@@ -47,7 +47,7 @@ docker info
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sarvani-701/expense-tracker.git
+git clone https://github.com/sarvani-278/expenseflow.git
 cd expense-tracker
 ```
 
@@ -183,7 +183,7 @@ expense-tracker/
 
 **Sarvani Mikkilineni**
 
-- GitHub: [@sarvani-701](https://github.com/sarvani-701)
+- GitHub: [@sarvani-278](https://github.com/sarvani-278)
 - LinkedIn: [sarvani-mikkilineni-b80969340](https://www.linkedin.com/in/sarvani-mikkilineni-b80969340/)
 
 ## License

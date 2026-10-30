@@ -317,7 +317,7 @@ export default function LandingPage() {
 
           <div className="flex items-center gap-5">
             <a
-              href="https://github.com/sarvani-701"
+              href="https://github.com/sarvani-278"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Sarvani's GitHub profile"
